@@ -1,0 +1,551 @@
+{
+  "project_info": {
+    "project_number": "154024393986",
+    "firebase_url": "https://melodic-rig-281709-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "melodic-rig-281709",
+    "storage_bucket": "melodic-rig-281709.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:f8d54192277a59f786961b",
+        "android_client_info": {
+          "package_name": "com.codingmonk.allinonevideoeditor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:21b8f2dce756cf1d86961b",
+        "android_client_info": {
+          "package_name": "com.dezeleven.food_course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:ac5d75dba22b8bbf86961b",
+        "android_client_info": {
+          "package_name": "com.example.corona_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:d9fe42b7c851b6a386961b",
+        "android_client_info": {
+          "package_name": "com.example.course"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:60e6b659f4b7ca2b86961b",
+        "android_client_info": {
+          "package_name": "com.example.courseproductiion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:d1f5fc10235eee3486961b",
+        "android_client_info": {
+          "package_name": "com.example.courseproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:dabe3a91038a01f186961b",
+        "android_client_info": {
+          "package_name": "com.example.covidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:31c0eac75d8585ea86961b",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:09a426eb7623c9da86961b",
+        "android_client_info": {
+          "package_name": "com.example.first_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:2ca08c9512eb470d86961b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:13952b5e4aa3719d86961b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_udemy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:d4e2b2a9aaace8be86961b",
+        "android_client_info": {
+          "package_name": "com.example.yoga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:fcc3fc1502dd8a1886961b",
+        "android_client_info": {
+          "package_name": "com.foodmerchant.productioin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:309d7cf8435521d986961b",
+        "android_client_info": {
+          "package_name": "com.foodmerchant.production"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154024393986:android:62aada64cfd628b586961b",
+        "android_client_info": {
+          "package_name": "com.production.fooddelivery_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbNAeF6-J4z4OueBAp346n2BpbvmsOWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154024393986-2s5e116lgvci0o8skonqm3iascjnoapj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "154024393986-o9avnr4qs2obtlujfmah2hibpjuap2ub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dezeleven.foodCourse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
